@@ -5,7 +5,7 @@ description: >
   Jekyll Template for Project Websites
   providing documentation and blog post pages.
 
-baseurl: "/rhiap" # the subpath of your site, e.g. /blog/
+baseurl: "/rhiap.github.io" # the subpath of your site, e.g. /blog/
 url: https://rhiap.github.io # the base hostname & protocol for your site
 git_address: https://github.com/rhiap/rhiap.github.io
 git_edit_address: https://github.com/rhiap/rhiap.github.io/blob/gh-pages
