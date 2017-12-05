@@ -1,10 +1,10 @@
 # Site settings
-title: Jekyll Doc Theme
+title: RHIAP
 email: your-email@domain.com
 description: >
-  Jekyll Template for Project Websites
-  providing documentation and blog post pages.
-
+  Repositorio de Historiografa
+  del Arte Peruano.
+  
 baseurl: "/rhiap.github.io" # the subpath of your site, e.g. /blog/
 url: https://rhiap.github.io # the base hostname & protocol for your site
 git_address: https://github.com/rhiap/rhiap.github.io
