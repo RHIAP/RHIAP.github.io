@@ -40,15 +40,15 @@ defaults:
 
 - scope:
     path: _archivo
-    type: docs
+    type: archivo
   values:
-    layout: docs
-    sectionid: docs
+    layout: archivo
+    sectionid: archivo
     seo:
       type: "WebPage"
 
 collections:
-  docs:
+  archivo:
     permalink: /:collection/:path/
     output: true
   posts:
