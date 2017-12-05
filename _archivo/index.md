@@ -1,7 +1,7 @@
 ---
 title: Welcome
 permalink: /archivo/home/
-redirect_from: /archivo/index.html
+redirect_from: /index.html
 ---
 
 ## Getting started
