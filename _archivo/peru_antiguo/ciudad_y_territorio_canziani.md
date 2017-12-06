@@ -4,8 +4,11 @@ permalink: /archivo/ciudad_y_territorio_canziani/
 ---
 
 **Autor**: José Canziani
+
 **Editorial, lugar y fecha de publicación**: PUCP, Lima, 2002
+
 **N° de páginas**: 250
+
 **Biblioteca consultada**: Biblioteca Nacional
   
 <ul class="nav nav-tabs">
