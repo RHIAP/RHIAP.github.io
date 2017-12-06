@@ -16,7 +16,7 @@ Este repositorio es producto del trabajo de los estudiantes de Historia del Arte
 
 <br/>
 <div class="row">
-<div class="col-lg-4">
+<div class="col-lg-6">
 <div class="bs-component">
 
 <ul class="list-group">
