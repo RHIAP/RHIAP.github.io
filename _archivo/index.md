@@ -1,6 +1,6 @@
 ---
 title: Welcome
-permalink: /archivo/home/
+permalink: /archivo/inicio/
 redirect_from: /archivo/index.html
 ---
 
