@@ -5,7 +5,7 @@ permalink: /archivo/fray_diego_maroto_san_cristobal/
 
 **Autor**: Antonio San Cristobal
 
-**Editorial, lugar y fecha de publicación**: Lima, Epígrafe S.A., 1996
+**Lugar, editorial y fecha de publicación**: Lima, Epígrafe S.A., 1996
 
 **N° de páginas**: 230
 
