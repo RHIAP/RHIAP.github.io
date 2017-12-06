@@ -1,6 +1,7 @@
 <div class="panel panel-primary">
+	{% for section in site.data.docs %}
   	<div class="panel-heading">
-    		titulo
+    		Titulo
   	</div>
  	<div class="panel-body">
   		<ul class="list-group">
@@ -11,4 +12,5 @@
         		{% endfor %}
 		</ul>
 	</div>
+	{% endfor %}
 </div>
