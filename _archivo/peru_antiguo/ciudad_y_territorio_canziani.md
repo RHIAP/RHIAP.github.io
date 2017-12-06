@@ -2,10 +2,10 @@
 title: "Ciudad y Territorio en los Andes: contribuciones a la historia del urbanismo prehispánico"
 permalink: /archivo/ciudad_y_territorio_canziani/
 ---
-<span class="iwt">
-<span><i class="fa fa-book" aria-hidden="true">Título del libro</span>
-<p>Ciudad y Territorio en los Andes: contribuciones a la historia del urbanismo prehispánico</p>
-</span>
+
+<ul class="list-inline pull-right">
+  <li><span>visit now</span><i class="glyphicon glyphicon-circle-arrow-right"></i></li>
+</ul>
   
 <ul class="nav nav-tabs">
   <li class="active"><a href="#resumen" data-toggle="tab">Resumen</a></li>
