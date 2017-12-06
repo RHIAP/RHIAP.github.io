@@ -4,7 +4,7 @@ permalink: /archivo/ciudad_y_territorio_canziani/
 ---
 
 <ul class="list-inline pull-right">
-  <li><span>visit now</span><i class="fa fa-book"></i></li>
+  <li><span>visit now</span><i class="fa fa-book" aria-hidden="true"></i></li>
 </ul>
   
 <ul class="nav nav-tabs">
@@ -14,7 +14,7 @@ permalink: /archivo/ciudad_y_territorio_canziani/
 </ul>
 <div id="myTabContent" class="tab-content">
   <div class="tab-pane fade active in" id="resumen">
-    <p>Raw denim you probably haven't heard of them jean shorts Austin.</p>
+    <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee. Qui photo booth letterpress, commodo enim craft beer mlkshk aliquip jean shorts ullamco ad vinyl cillum PBR. Homo nostrud organic, assumenda labore aesthetic magna delectus mollit.</p>
   </div>
   <div class="tab-pane fade" id="indice">
     <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee. Qui photo booth letterpress, commodo enim craft beer mlkshk aliquip jean shorts ullamco ad vinyl cillum PBR. Homo nostrud organic, assumenda labore aesthetic magna delectus mollit.</p>
@@ -24,4 +24,3 @@ permalink: /archivo/ciudad_y_territorio_canziani/
     </p>
   </div>
 </div>
-  
