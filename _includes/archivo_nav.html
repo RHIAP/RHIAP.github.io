@@ -1,16 +1,9 @@
-<div class="panel panel-primary">
-	{% for section in site.data.docs %}
-  	<div class="panel-heading">
-    		Titulo
-  	</div>
- 	<div class="panel-body">
-  		<ul class="list-group">
-        		{% for item in section.docs %}
-          			{% assign item_url = item | prepend:"/archivo/" | append:"/" %}
-          			{% assign p = site.archivo | where:"url", item_url | first %}
-          			<a class="list-group-item {% if item_url == page.url %}active{% endif %}" href="{{ p.url  | prepend: site.baseurl }}">{{ p.title }}</a>
-        		{% endfor %}
-		</ul>
-	</div>
-	{% endfor %}
+<div class="list-group">
+                <a class="list-group-item active">
+                  Título
+                </a>
+                <a href="#" class="list-group-item">Dapibus ac facilisis in
+                </a>
+                <a href="#" class="list-group-item">Morbi leo risus
+                </a>
 </div>
