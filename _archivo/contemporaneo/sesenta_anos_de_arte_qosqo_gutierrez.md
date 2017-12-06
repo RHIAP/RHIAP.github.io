@@ -4,6 +4,7 @@ permalink: /archivo/sesenta_anos_de_arte_qosqo_gutierrez/
 ---
 
 **Autores**: Julio Gutiérrez Loayza
+
 **Lugar, editorial y fecha de publicación**: Cusco, Municipalidad del Qosqo, 1994
 
 **N° de páginas**: 325
@@ -172,7 +173,7 @@ Teatro popular al aire libre<br>
   </div>
   <div class="tab-pane fade" id="comentario">
     <p>
-    Los textos aquí recopilados son un aporte valioso para el estudio de los artistas y la escena cultural del Cusco de los primeros cincuenta años del siglo XX. El autor aborda con rigurosidad la obra y la vida de aquellos artistas radicados en el Cusco o bien que habían visitado la ciudad. En el libro hay una perspectiva invaluable, pues, Julio Gutiérrez Loayza  enuncia desde la perspectiva de un cusqueño de toda la vida, hay que recordar además que el autor estuvo vinculado fuertemente a la vida cultural del Cusco, compartiendo experiencias de lucha y profesionales con Edgar Valcárcel, Martín Chambi y Uriel García. Además, Julio Gutiérrez fue un reconocido militante comunista cusqueño, fue fundador del primer grupo comunista del Cusco, y su obra más conocida versa sobre esa historia política, Así nació el Cusco rojo (1986).<br>
+    Los textos aquí recopilados son un aporte valioso para el estudio de los artistas y la escena cultural del Cusco de los primeros cincuenta años del siglo XX. El autor aborda con rigurosidad la obra y la vida de aquellos artistas radicados en el Cusco o bien que habían visitado la ciudad. En el libro hay una perspectiva invaluable, pues, Julio Gutiérrez Loayza  enuncia desde la perspectiva de un cusqueño de toda la vida, hay que recordar además que el autor estuvo vinculado fuertemente a la vida cultural del Cusco, compartiendo experiencias de lucha y profesionales con Edgar Valcárcel, Martín Chambi y Uriel García. Además, Julio Gutiérrez fue un reconocido militante comunista cusqueño, fue fundador del primer grupo comunista del Cusco, y su obra más conocida versa sobre esa historia política, Así nació el Cusco rojo (1986).<br><br>
 
 El texto incluye imágenes, aunque no son muchas, pero algunas de ellas están a color, lo cual es un acierto, aunque lamentablemente la edición no incluye un pie de imágenes detallado, solo se incluye el título del cuadro, por lo cual no tenemos acceso inmediato a las medidas, técnica y ubicación de los cuadros. <br>
     </p>
