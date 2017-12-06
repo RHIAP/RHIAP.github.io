@@ -3,9 +3,10 @@ title: "Ciudad y Territorio en los Andes: contribuciones a la historia del urban
 permalink: /archivo/ciudad_y_territorio_canziani/
 ---
 
-<ul class="list-inline pull-right">
-  <li><span>visit now</span><i class="fa fa-book" aria-hidden="true"></i></li>
-</ul>
+**Autor**: José Canziani
+**Editorial, lugar y fecha de publicación**: PUCP, Lima, 2002
+**N° de páginas**: 250
+**Biblioteca consultada**: Biblioteca Nacional
   
 <ul class="nav nav-tabs">
   <li class="active"><a href="#resumen" data-toggle="tab">Resumen</a></li>
@@ -19,7 +20,7 @@ permalink: /archivo/ciudad_y_territorio_canziani/
   <div class="tab-pane fade" id="indice">
     <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee. Qui photo booth letterpress, commodo enim craft beer mlkshk aliquip jean shorts ullamco ad vinyl cillum PBR. Homo nostrud organic, assumenda labore aesthetic magna delectus mollit.</p>
   </div>
-  <div class="tab-pane fade active in" id="comentario">
+  <div class="tab-pane fade" id="comentario">
     <p>Raw denim you probably haven't heard of them jean shorts Austin. 
     </p>
   </div>
