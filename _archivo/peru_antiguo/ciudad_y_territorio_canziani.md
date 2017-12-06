@@ -1,8 +1,7 @@
 ---
-title: Ciudad y Territorio en los Andes: contribuciones a la historia del urbanismo prehispánico
+title: "Ciudad y Territorio en los Andes: contribuciones a la historia del urbanismo prehispánico"
 permalink: /archivo/ciudad_y_territorio_canziani/
 ---
-Ficha
 
 <ul class="nav nav-tabs">
   <li class="active"><a href="#resumen" data-toggle="tab">Resumen</a></li>
