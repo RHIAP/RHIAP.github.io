@@ -4,7 +4,7 @@ permalink: /archivo/ciudad_y_territorio_canziani/
 ---
 
 <ul class="list-inline pull-right">
-  <li><span>visit now</span><i class="glyphicon glyphicon-circle-arrow-right"></i></li>
+  <li><span>visit now</span><i class="fa fa-book"></i></li>
 </ul>
   
 <ul class="nav nav-tabs">
