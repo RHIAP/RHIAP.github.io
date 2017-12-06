@@ -10,3 +10,19 @@ Al acceder, a través de la barra de navegación, a cualquiera de esos periodos 
 
 Este repositorio es producto del trabajo de los estudiantes de Historia del Arte (Escuela Profesional de Arte) de la Universidad Nacional Mayor de San Marcos, como parte del curso de Historiografía dictado por la docente Mg. Sofía Pachas Maceda.
 
+### Total de fichas bibliográficas
+
+<ul class="list-group">
+  <li class="list-group-item">
+     <span class="badge">14</span> Perú antiguo
+  </li>
+  <li class="list-group-item">
+     <span class="badge">2</span> Virreinal
+  </li>
+  <li class="list-group-item">
+     <span class="badge">1</span> República
+  </li>
+  <li class="list-group-item">
+     <span class="badge">1</span> Moderno
+  </li>
+</ul>
