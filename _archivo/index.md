@@ -14,11 +14,10 @@ Este repositorio es producto del trabajo de los estudiantes de Historia del Arte
 
 #### Total de fichas bibliográficas
 
-<br/>
+
 <div class="row">
 <div class="col-lg-6">
 <div class="bs-component">
-
 <ul class="list-group">
   <li class="list-group-item">
      <span class="badge">14</span> Perú antiguo
