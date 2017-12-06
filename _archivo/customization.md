@@ -1,5 +1,5 @@
 ---
-title: Customization
+title: Virreinal
 permalink: /archivo/customization/
 ---
 
