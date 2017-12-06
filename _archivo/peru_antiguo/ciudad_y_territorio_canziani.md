@@ -6,7 +6,7 @@ permalink: /archivo/ciudad_y_territorio_canziani/
 <ul class="nav nav-tabs">
   <li class="active"><a href="#resumen" data-toggle="tab">Resumen</a></li>
   <li><a href="#indice" data-toggle="tab">Índice</a></li>
-  li><a href="#comentario" data-toggle="tab">Comentario</a></li>
+  <li><a href="#comentario" data-toggle="tab">Comentario</a></li>
 </ul>
 
 <div id="myTabContent" class="tab-content">
