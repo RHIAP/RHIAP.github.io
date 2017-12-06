@@ -15,7 +15,7 @@ Este repositorio es producto del trabajo de los estudiantes de Historia del Arte
 #### Total de fichas bibliográficas
 
 <br/>
-</div>
+<div class="row">
 <div class="col-lg-4">
 <div class="bs-component">
 
