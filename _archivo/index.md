@@ -14,6 +14,8 @@ Este repositorio es producto del trabajo de los estudiantes de Historia del Arte
 
 #### Total de fichas bibliográficas
 
+<br/>
+</div>
 <div class="col-lg-4">
 <div class="bs-component">
 
@@ -31,5 +33,6 @@ Este repositorio es producto del trabajo de los estudiantes de Historia del Arte
      <span class="badge">1</span> Moderno
   </li>
 </ul>
+</div>
 </div>
 </div>
