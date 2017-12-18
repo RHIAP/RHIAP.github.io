@@ -26,7 +26,7 @@ Este repositorio es producto del trabajo de los estudiantes de Historia del Arte
      <span class="badge">2</span> Virreinal
   </li>
   <li class="list-group-item">
-     <span class="badge">1</span> Republicano
+     <span class="badge">50</span> Republicano
   </li>
   <li class="list-group-item">
      <span class="badge">1</span> Moderno
