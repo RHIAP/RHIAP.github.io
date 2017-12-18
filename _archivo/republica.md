@@ -1,9 +1,9 @@
 ---
 title: República
-permalink: /archivo/virreinal/
+permalink: /archivo/republica/
 ---
 
 
 \# | Título | Autor
 --- | --- | ---
-1 | [Ciudad y Territorio en los Andes: contribuciones a la historia del urbanismo prehispánico](https://rhiap.github.io/archivo/ciudad_y_territorio_canziani/) | Canziani, José
+1 | [Arquitectura Cusqueña en los albores de la Republica (1824- 1934)](https://rhiap.github.io/archivo/arquitectura_cuzquena_paliza/) | Paliza, Violeta
