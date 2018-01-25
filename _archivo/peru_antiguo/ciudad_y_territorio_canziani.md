@@ -3,6 +3,7 @@ title: "Ciudad y Territorio en los Andes: contribuciones a la historia del urban
 permalink: /archivo/ciudad_y_territorio_canziani/
 ---
 
+
 <!-- Apartados de la ficha, no borrar los textos encerrados en las comillas -->
 
 **Autor**: José Canziani
