@@ -13,13 +13,16 @@ permalink: /archivo/ciudad_y_territorio_canziani/
 
 **Biblioteca consultada**: Biblioteca Nacional
 
-<!-- Apartados de la ficha, no borrar los textos encerrados en las comillas -->
+<!-- Lo que sigue es el esquema para las pestañas de RESUMEN, ÍNDICE y COMENTARIO -->
 
+<!-- Las siguientes 5 líneas no se deben editar -->
 <ul class="nav nav-tabs">
   <li class="active"><a href="#resumen" data-toggle="tab">Resumen</a></li>
   <li><a href="#indice" data-toggle="tab">Índice</a></li>
   <li><a href="#comentario" data-toggle="tab">Comentario</a></li>
 </ul>
+
+<!--  -->
 <div id="myTabContent" class="tab-content">
   <div class="tab-pane fade active in" id="resumen">
     <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee. Qui photo booth letterpress, commodo enim craft beer mlkshk aliquip jean shorts ullamco ad vinyl cillum PBR. Homo nostrud organic, assumenda labore aesthetic magna delectus mollit.</p>
