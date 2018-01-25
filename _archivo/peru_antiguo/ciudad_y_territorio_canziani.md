@@ -3,7 +3,6 @@ title: "Ciudad y Territorio en los Andes: contribuciones a la historia del urban
 permalink: /archivo/ciudad_y_territorio_canziani/
 ---
 
-
 <!-- Apartados de la ficha, no borrar los textos encerrados en las comillas -->
 
 **Autor**: José Canziani
@@ -23,11 +22,13 @@ permalink: /archivo/ciudad_y_territorio_canziani/
   <li><a href="#comentario" data-toggle="tab">Comentario</a></li>
 </ul>
 
-<!--  -->
+<!-- Este es el segmento de la pestaña RESUMEN, editar el texto dentro de las etiquetas <p> y </p>, el resto no debe modificarse -->
 <div id="myTabContent" class="tab-content">
   <div class="tab-pane fade active in" id="resumen">
     <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee. Qui photo booth letterpress, commodo enim craft beer mlkshk aliquip jean shorts ullamco ad vinyl cillum PBR. Homo nostrud organic, assumenda labore aesthetic magna delectus mollit.</p>
   </div>
+<!-- FIN de la pestaña RESUMEN -->  
+  
   <div class="tab-pane fade" id="indice">
     Nota introductoria<br>                                                                                                               
 Prólogo<br>                                                                                                                    
