@@ -27,10 +27,13 @@ permalink: /archivo/ciudad_y_territorio_canziani/
   <div class="tab-pane fade active in" id="resumen">
     <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee. Qui photo booth letterpress, commodo enim craft beer mlkshk aliquip jean shorts ullamco ad vinyl cillum PBR. Homo nostrud organic, assumenda labore aesthetic magna delectus mollit.</p>
   </div>
-<!-- FIN de la pestaña RESUMEN -->  
+<!-- FIN de la pestaña RESUMEN -->
   
-  <div class="tab-pane fade" id="indice">
-    Nota introductoria<br>                                                                                                               
+<!-- Este es el segmento de la pestaña INDICE, para agregar un salto de línea usar la etiqueta <br> al final de la línea -->  
+<div class="tab-pane fade" id="indice">
+<!-- Editar los índices desde esta línea hacia abajo -->
+
+Nota introductoria<br>                                                                                                               
 Prólogo<br>                                                                                                                    
 Capítulo 1: La presencia  de Maroto en la historia de la arquitectura virreinal<br> 
 1.1 Las primeras informaciones<br>                                                                                           
@@ -114,11 +117,14 @@ Obras principales de Fray Diego Maroto <br>
 Bibliografía <br>
 Créditos fotográficos<br>
 Índice de nombres citados <br>
+<!-- Fin del segmento a editar para ÍNDICE -->
+</div>
+<!-- FIN del segmento ÍNDICE -->
 
-  </div>
-  <div class="tab-pane fade" id="comentario">
-    <p>Es rescatable la labor realizada por el investigador Antonio San Cristóbal en lo referido a la arquitectura virreinal en Lima, tanto en los estudios de templos religiosos como de arquitectura secular. En este estudio, San Cristóbal se enfoca en la personalidad artística de Fray Diego Maroto con el fin de otorgarle un nombre o autoría a las diversas obras arquitectónicas que se encuentran dentro de Lima y que forman parte del patrimonio artístico religioso. Esto se debe a que durante varias décadas la historia de la arquitectura peruana no indagó acerca de los verdaderos creadores de dichas obras, manteniendo así una visión parcializada.<br>
+<!-- INICIO del segmento de la pestaña COMENTARIO, editar solo el texto dentro de las etiquetas <p> y </p>, recuerde agragar las etiquetas <br><br> para generar los espacios entre párrafo y párrafo -->
+<div class="tab-pane fade" id="comentario">
+<p>Es rescatable la labor realizada por el investigador Antonio San Cristóbal en lo referido a la arquitectura virreinal en Lima, tanto en los estudios de templos religiosos como de arquitectura secular. En este estudio, San Cristóbal se enfoca en la personalidad artística de Fray Diego Maroto con el fin de otorgarle un nombre o autoría a las diversas obras arquitectónicas que se encuentran dentro de Lima y que forman parte del patrimonio artístico religioso. Esto se debe a que durante varias décadas la historia de la arquitectura peruana no indagó acerca de los verdaderos creadores de dichas obras, manteniendo así una visión parcializada.<br>
 Gracias a esta investigación y a otras anteriormente plasmadas por San Cristóbal, como es el caso de su texto El alarife Manuel de Escobar (1995), sale a la luz las diversas personalidades artísticas que vivieron durante la época virreinal y que jugaron un papel importante en los proyectos arquitectónicos. Indagar sobre la vida y obra de Fray Diego  
-    </p>
-  </div>
+ </p>
+</div>
 </div>
