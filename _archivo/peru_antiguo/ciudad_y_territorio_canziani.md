@@ -33,8 +33,8 @@ permalink: /archivo/ciudad_y_territorio_canziani/
 <div class="tab-pane fade" id="indice">
 <!-- Editar los índices desde esta línea hacia abajo -->
 
-Nota introductoria<br>                                                                                                               
-Prólogo<br>                                                                                                                    
+Nota introductoria<br><br>                                                                                                               
+Prólogo<br><br>                                                                                                                    
 Capítulo 1: La historia de la arquitectura virreinal<br> 
 1.1 Las primeras informaciones<br>                                                                                           
 1.2 Los sistematizadores posteriores <br>                                                                                  
