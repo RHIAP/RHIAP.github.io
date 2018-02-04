@@ -38,12 +38,12 @@ Prólogo<br>
 Capítulo 1: La historia de la arquitectura virreinal<br> 
 1.1 Las primeras informaciones<br>                                                                                           
 1.2 Los sistematizadores posteriores <br>                                                                                  
-1.3 Conclusiones<br>                                                                                                                  
+1.3 Conclusiones<br><br>                                                                                                                  
 Capítulo 2: Maroto, de seglar a religioso<br>
 2.1. Ingreso en la orden de Santo Domingo<br>                                                                        
 2.2. El problema de la Catedral de Trujillo<br>                                                                         
 2.3. Sucesor de fray Juan García<br>                                                                                         
-2.4.Determinación de su fallecimiento <br>                                                                               
+2.4.Determinación de su fallecimiento <br> <br>                                                                              
 Capítulo 3: Cargos y encargos oficiales desempeñados por maroto<br>
 3.1El cargo de maestro mayor de obras de la catedral<br>                                                        
 3.2. El cargo de maestro mayor de fábricas reales<br>  
