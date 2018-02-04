@@ -6,4 +6,4 @@ permalink: /archivo/republica/
 
 \# | Título | Autor
 --- | --- | ---
-1 | [Arquitectura Cusqueña en los albores de la Republica (1824- 1934)](https://rhiap.github.io/archivo/arquitectura_cuzquena_paliza/) | Paliza, Violeta
+1 | [Arquitectura Cusqueña en los albores de la Republica (1824- 1934)](https://historiografiadelarteperuano.github.io/archivo/arquitectura_cuzquena_paliza/) | Paliza, Violeta
