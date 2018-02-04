@@ -35,7 +35,7 @@ permalink: /archivo/ciudad_y_territorio_canziani/
 
 Nota introductoria<br>                                                                                                               
 Prólogo<br>                                                                                                                    
-Capítulo 1: La presencia  de Maroto en la historia de la arquitectura virreinal<br> 
+Capítulo 1: La historia de la arquitectura virreinal<br> 
 1.1 Las primeras informaciones<br>                                                                                           
 1.2 Los sistematizadores posteriores <br>                                                                                  
 1.3 Conclusiones<br>                                                                                                                  
