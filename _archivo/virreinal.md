@@ -1,6 +1,6 @@
 ---
 title: Virreinal
-permalink: /archivo/virreinal/
+permalink: historiografiadelarteperuano.github.io/archivo/virreinal/
 ---
 
 
