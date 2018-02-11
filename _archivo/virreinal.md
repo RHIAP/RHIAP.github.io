@@ -6,4 +6,4 @@ permalink: /archivo/virreinal/
 
 \# | Título | Autor
 --- | --- | ---
-1 | [Ciudad y Territorio en los Andes: contribuciones a la historia del urbanismo prehispánico](https://historiografiadelarteperuano.github.io/archivo/ciudad_y_territorio_canziani/) | Canziani, José
+1 | [Fray Diego Maroto: alarife de Lima 1617 - 1696](https://historiografiadelarteperuano.github.io/archivo/fray_diego_maroto_san_cristobal/) | San Cristobal, Antonio
