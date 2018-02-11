@@ -1,11 +1,9 @@
-<!-- Apartados de Título y Enlace permanente. El título debe ir entre comillas. -->
-
----
+--
 title: "Ciudad y Territorio en los Andes: contribuciones a la historia del urbanismo prehispánico"
 permalink: /archivo/ciudad_y_territorio_canziani/
 ---
 
-<!-- Apartados de la ficha, no borrar los textos encerrados en las comillas -->
+<!-- Datos generales de ficha. Solo escribir a partir de los dos puntos. -->
 
 **Autor**: José Canziani
 
@@ -14,6 +12,8 @@ permalink: /archivo/ciudad_y_territorio_canziani/
 **N° de páginas**: 250
 
 **Biblioteca consultada**: Biblioteca Nacional
+
+<!-- Fin de Datos generales de ficha -->
 
 <!-- Lo que sigue es el esquema para las pestañas de RESUMEN, ÍNDICE y COMENTARIO -->
 
@@ -24,16 +24,18 @@ permalink: /archivo/ciudad_y_territorio_canziani/
   <li><a href="#comentario" data-toggle="tab">Comentario</a></li>
 </ul>
 
-<!-- Este es el segmento de la pestaña RESUMEN, editar el texto dentro de las etiquetas <p> y </p>, el resto no debe modificarse -->
+<!-- INICIO de pestaña RESUMEN. Editar el texto dentro de las etiquetas <p> y </p>, el resto no debe modificarse, para agregar un salto de línea usar la etiqueta <br> al final de la línea o dos <br><br> para agregar un espacio mayor tipo párrafo. -->
+
 <div id="myTabContent" class="tab-content">
   <div class="tab-pane fade active in" id="resumen">
     <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee. Qui photo booth letterpress, commodo enim craft beer mlkshk aliquip jean shorts ullamco ad vinyl cillum PBR. Homo nostrud organic, assumenda labore aesthetic magna delectus mollit.</p>
   </div>
-<!-- FIN de la pestaña RESUMEN -->
   
-<!-- Este es el segmento de la pestaña INDICE, para agregar un salto de línea usar la etiqueta <br> al final de la línea -->  
+<!-- FIN de la pestaña RESUMEN --> 
+
+<!-- INICIO de pestaña ÍNDICE. Para agregar un salto de línea usar la etiqueta <br> al final de la línea o dos <br><br> para agregar un espacio mayor tipo párrafo. -->
+
 <div class="tab-pane fade" id="indice">
-<!-- Editar los índices desde esta línea hacia abajo -->
 
 Nota introductoria<br><br>                                                                                                               
 Prólogo<br><br>                                                                                                                    
@@ -119,11 +121,11 @@ Obras principales de Fray Diego Maroto <br>
 Bibliografía <br>
 Créditos fotográficos<br>
 Índice de nombres citados <br>
-<!-- Fin del segmento a editar para ÍNDICE -->
 </div>
-<!-- FIN del segmento ÍNDICE -->
+<!-- FIN de la pestaña ÍNDICE -->
 
-<!-- INICIO del segmento de la pestaña COMENTARIO, editar solo el texto dentro de las etiquetas <p> y </p>, recuerde agragar las etiquetas <br><br> para generar los espacios entre párrafo y párrafo -->
+<!-- INICIO de la pestaña COMENTARIO, editar solo el texto dentro de las etiquetas <p> y </p>, recuerde agregar las etiquetas <br><br> para generar los espacios entre párrafo y párrafo -->
+
 <div class="tab-pane fade" id="comentario">
 <p>Es rescatable la labor realizada por el investigador Antonio San Cristóbal en lo referido a la arquitectura virreinal en Lima, tanto en los estudios de templos religiosos como de arquitectura secular. En este estudio, San Cristóbal se enfoca en la personalidad artística de Fray Diego Maroto con el fin de otorgarle un nombre o autoría a las diversas obras arquitectónicas que se encuentran dentro de Lima y que forman parte del patrimonio artístico religioso. Esto se debe a que durante varias décadas la historia de la arquitectura peruana no indagó acerca de los verdaderos creadores de dichas obras, manteniendo así una visión parcializada.<br><br>
 Gracias a esta investigación y a otras anteriormente plasmadas por San Cristóbal, como es el caso de su texto El alarife Manuel de Escobar (1995), sale a la luz las diversas personalidades artísticas que vivieron durante la época virreinal y que jugaron un papel importante en los proyectos arquitectónicos. Indagar sobre la vida y obra de Fray Diego  
