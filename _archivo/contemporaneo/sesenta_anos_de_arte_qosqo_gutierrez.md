@@ -3,6 +3,8 @@ title: "Sesenta años de arte en el Qosqo (1927-1988). Ensayos, artículos y com
 permalink: /archivo/sesenta_anos_de_arte_qosqo_gutierrez/
 ---
 
+<!-- Datos generales de ficha. Solo escribir a partir de los dos puntos. -->
+
 **Autores**: Julio Gutiérrez Loayza
 
 **Lugar, editorial y fecha de publicación**: Cusco, Municipalidad del Qosqo, 1994
@@ -12,16 +14,23 @@ permalink: /archivo/sesenta_anos_de_arte_qosqo_gutierrez/
 **Biblioteca consultada**: Biblioteca Facultad de Letras de la UNMSM
 
 **Responsable**: Pedro Jave Portocarrero
-  
+
+<!-- Fin de Datos generales de ficha -->
+
+<!-- Lo que sigue es el esquema para las pestañas de RESUMEN, ÍNDICE y COMENTARIO -->
+<!-- Las siguientes 5 líneas no se deben editar -->
+
 <ul class="nav nav-tabs">
   <li class="active"><a href="#resumen" data-toggle="tab">Resumen</a></li>
   <li><a href="#indice" data-toggle="tab">Índice</a></li>
   <li><a href="#comentario" data-toggle="tab">Comentario</a></li>
 </ul>
+
+<!-- INICIO de pestaña RESUMEN. Editar el texto dentro de las etiquetas <p> y </p>, el resto no debe modificarse, para agregar un salto de línea usar la etiqueta <br> al final de la línea o dos <br><br> para agregar un espacio mayor tipo párrafo. -->
+
 <div id="myTabContent" class="tab-content">
   <div class="tab-pane fade active in" id="resumen">
-    <p>
-    
+    <p>    
 Esta publicación que fuera auspiciada por la Municipalidad del Qosqo (Cusco),  es una recopilación de ensayos, artículos, conferencias y disertaciones del periodista y crítico de arte cusqueño Julio Gutiérrez Loayza. Se ha antologado casi 60 años de producción escrita, cubriendo un amplio espectro de artistas nacionales y extranjeros; pero sobre todo, deteniéndose, con especial interés, en las expresiones plásticas cusqueñas y sus representantes, abordando temas como la escuela cusqueña colonial, el arte popular y el arte moderno. El libro está estructurado en diez apartados, los cuales pasamos a comentar.<br><br>
 
 Su primer apartado titulado «Tres pintores cusqueños» son ensayos sobre los artistas cusqueños Francisco González Gamarra, Manuel Agustín Rivero y Mariano Fuentes. Artistas que desarrollaron con vigor su actividad plástica durante la primera mitad del siglo XX. Según se indica en la presentación del libro este capítulo sería el corpus de su obra inédita Tres pintores cusqueños y otras notas de arte, sobre este aspecto es preciso recordar que el autor del libro falleció terminada la edición de este texto, a la edad de 88 años. <br><br>   
@@ -39,6 +48,11 @@ El sexto capítulo es sobre arte universal, son 5 ensayos que van desde temas co
 Los dos capítulos siguientes y con los cuales culmina el libro vuelven sobre el tema artístico cusqueño. El noveno capítulo trata sobre pintura colonial cusqueña y, el décimo, sobre el arte popular. En este último apartado aborda temas sobre música, cerámica, gráfica, pintura, teatro y algunas referencias a instituciones que difunden el arte popular en el Cusco. <br><br>
   </p>
   </div>
+
+<!-- FIN de la pestaña RESUMEN -->
+
+<!-- INICIO de pestaña ÍNDICE. Para agregar un salto de línea usar la etiqueta <br> al final de la línea o dos <br><br> para agregar un espacio mayor tipo párrafo. -->
+
   <div class="tab-pane fade" id="indice">
    Presentación <br>
 Daniel Estrada Pérez<br>
@@ -169,8 +183,11 @@ Foro sobre la defensa del Patrimonio Cultural de la Nación<br>
 “El arte popular, la tradición y el Folclore”<br>
 Nota de Arte. Pinturas y máscaras de Paucartambo<br>
 Teatro popular al aire libre<br>
+</div>
+<!-- FIN de la pestaña ÍNDICE -->
 
-  </div>
+<!-- INICIO de la pestaña COMENTARIO, editar solo el texto dentro de las etiquetas <p> y </p>, recuerde agregar las etiquetas <br><br> para generar los espacios entre párrafo y párrafo -->
+
   <div class="tab-pane fade" id="comentario">
     <p>
     Los textos aquí recopilados son un aporte valioso para el estudio de los artistas y la escena cultural del Cusco de los primeros cincuenta años del siglo XX. El autor aborda con rigurosidad la obra y la vida de aquellos artistas radicados en el Cusco o bien que habían visitado la ciudad. En el libro hay una perspectiva invaluable, pues, Julio Gutiérrez Loayza  enuncia desde la perspectiva de un cusqueño de toda la vida, hay que recordar además que el autor estuvo vinculado fuertemente a la vida cultural del Cusco, compartiendo experiencias de lucha y profesionales con Edgar Valcárcel, Martín Chambi y Uriel García. Además, Julio Gutiérrez fue un reconocido militante comunista cusqueño, fue fundador del primer grupo comunista del Cusco, y su obra más conocida versa sobre esa historia política, Así nació el Cusco rojo (1986).<br><br>
