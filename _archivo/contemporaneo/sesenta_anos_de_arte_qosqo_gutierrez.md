@@ -53,22 +53,17 @@ Los dos capítulos siguientes y con los cuales culmina el libro vuelven sobre el
 
 <!-- INICIO de pestaña ÍNDICE. Para agregar un salto de línea usar la etiqueta <br> al final de la línea o dos <br><br> para agregar un espacio mayor tipo párrafo. -->
 
-  <div class="tab-pane fade" id="indice">
-   Presentación <br>
-Daniel Estrada Pérez<br>
+<div class="tab-pane fade" id="indice">
+Presentación por Daniel Estrada Pérez<br><br>
+Julio G. Gutiérrez Loayza (Apunte biográfico) por Julio Antonio Gutiérrez Samanez<br><br>
+Palabras liminares por Julio G. Gutiérrez Loayza<br><br>
 
-Julio G. Gutiérrez Loayza (Apunte biográfico)<br>
-Julio Antonio Gutiérrez Samanez<br>
-
-Palabras liminares<br>
-Julio G. Gutiérrez Loayza<br>
-
-TRES PINTORES CUSQUEÑOS<br>
+TRES PINTORES CUSQUEÑOS<br><br>
 Francisco González Gamarra<br>
 Manuel Agustín Rivero Ricalde<br>
-Mariano Fuentes Lira<br>
+Mariano Fuentes Lira<br><br>
 
-COMENTARIOS SOBRE ARTE<br>
+COMENTARIOS SOBRE ARTE<br><br>
 Una notable exposición de arte decorativo<br>
 Una restauración bárbara<br>
 La III exposición de Arte Decorativo Inkaico en el Colegio de Ciencias<br>
@@ -115,23 +110,23 @@ Juan de la Cruz Machicado<br>
 Homenaje al artista Baltazar Zegarra<br>
 Grabados de Miguel Valencia<br>
 Homenaje a Martín Chambi<br>
-Itinerario de Luis Ccosi Salas<br>
+Itinerario de Luis Ccosi Salas<br><br>
 
-HOMENAJE A JOSÉ SABOGAL<br>
+HOMENAJE A JOSÉ SABOGAL<br><br>
 Sabogal<br>
 José Sabogal y el Cusco<br>
 Reencuentro con José Sabogal<br>
 La muerte de José Sabogal<br>
 El Cusco y el centenario de Sabogal<br>
-Xilograbados cusqueños de José Sabogal<br>
+Xilograbados cusqueños de José Sabogal<br><br>
 
-NOTAS SOBRE ESTÉTICA<br>
+NOTAS SOBRE ESTÉTICA<br><br>
 Del Impresionismo al arte abstracto<br>
 Forma e informalismo<br>
 Disquisiciones sobre el arte peruano<br>
-El Inti Raymi como Ballet<br>
+El Inti Raymi como Ballet<br><br>
 
-NOTAS SOBRE ARQUITECTURA Y DEFENSA DEL PATRIMONIO ARTÍSTICO<br>
+NOTAS SOBRE ARQUITECTURA Y DEFENSA DEL PATRIMONIO ARTÍSTICO<br><br>
 Arquitectura de “El Cuadro”<br>
 Arquitectura post-terremoto<br>
 XX aniversario del Instituto Americano de Arte – Cusco y la defensa del patrimonio artístico<br>
@@ -149,22 +144,22 @@ Rubens y la pintura cusqueña<br>
 1981: Centenario de Picasso<br>
 El Ermitage [sic]<br>
 Leningrado, la heroica<br>
-“Dos horas en el Louvre”<br>
+“Dos horas en el Louvre”<br><br>
 
-ARTE Y EDUCACIÓN<br>
+ARTE Y EDUCACIÓN<br><br>
 Agremiación de los artistas<br>
 Lenin y el arte<br>
 Arte y revolución<br>
 Arte y pueblo<br>
-Siqueiros, pintor de la Revolución Mexicana<br>
+Siqueiros, pintor de la Revolución Mexicana<br><br>
 
-PINTURA COLONIAL CUSQUEÑA<br>
+PINTURA COLONIAL CUSQUEÑA<br><br>
 La Escuela cusqueña de pintura<br>
 Pinacoteca virreynal “Santiago Lechuga Andia”<br>
 Pintura colonial cusqueña<br>
-Los cuadros de Pujyura<br>
+Los cuadros de Pujyura<br><br>
 
-EN TORNO AL ARTE POPULAR<br>
+EN TORNO AL ARTE POPULAR<br><br>
 Santurantikuy, manifestación del arte popular cusqueño<br>
 Los juguetes cusqueños<br>
 Reivindicando El Charango<br>
