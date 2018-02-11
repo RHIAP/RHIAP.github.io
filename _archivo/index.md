@@ -20,15 +20,19 @@ Este repositorio es producto del trabajo de los estudiantes de Historia del Arte
 <div class="bs-component">
 <ul class="list-group">
   <li class="list-group-item">
+    <!-- Número correspondiente a fichas para Perú Antiguo -->
      <span class="badge">14</span> Perú antiguo
   </li>
   <li class="list-group-item">
+    <!-- Número correspondiente a fichas para Virreinal -->
      <span class="badge">2</span> Virreinal
   </li>
   <li class="list-group-item">
+    <!-- Número correspondiente a fichas para Republicano -->
      <span class="badge">50</span> Republicano
   </li>
   <li class="list-group-item">
+    <!-- Número correspondiente a fichas para Moderno -->
      <span class="badge">1</span> Moderno
   </li>
 </ul>
